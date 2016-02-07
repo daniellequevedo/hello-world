@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+~~~~~~~~~~~~~
+
+code changes and git command line commits are pretty cool, but this github interface is fun too!
